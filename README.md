@@ -32,8 +32,25 @@ Unityで制作した2Dランアクションゲームです。プレイヤーは�
   プレイヤーにはHPがあり、ポーション（アイテム）で回復可能。
 
 ## ファイル構成
-├── "AdmobScripts/ # AdMob広告のスクリプト"
-├── ExternalAssets/ # 外部からダウンロードした素材をまとめたフォルダ
+
+```
+Assets/
+├── AdmobScripts/              # AdMob広告のスクリプト
+├── ExternalAssets/           # 外部からダウンロードした素材をまとめたフォルダ
+├── ExternalDependencyManager/ # Google関連の依存管理
+├── Font/                     # フォント関連のアセット
+├── GoogleMobileAds/         # Google AdMob SDK
+├── Image_sozai/             # UIなどで使用する画像素材
+├── Music/                   # BGMや効果音などの音素材
+├── Plugins/                 # プラグイン（Unityで自動生成される可能性あり）
+├── Prefab/                  # プレハブ（アイテム、UIなど）
+├── Scenes/                  # Unityシーンファイル
+├── Scripts/                 # 自作のC#スクリプト群
+├── TextMesh Pro/            # Unity公式UIテキスト
+├── TilePalette/             # 2Dタイルの管理用
+└── UI button pack 2/        # ダウンロードしたUIボタン素材
+```
+
 
 ## 実行方法
 1. Unity Hubでこのプロジェクトを開く
