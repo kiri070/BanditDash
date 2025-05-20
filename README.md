@@ -7,6 +7,8 @@ Google Play Storeに投稿しました。　
 
 リンクはこちら→ https://play.google.com/store/apps/details?id=com.kiri.BunditDash&pcampaignid=web_share
 
+![プレイGIF](https://github.com/kiri070/BanditDash/raw/main/Assets/Gifs/portfolio01.gif)
+
 ## 使用技術
 - Unity(ver.2022.3.20f1)
 - C#
