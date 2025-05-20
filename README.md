@@ -47,6 +47,7 @@ Assets/
 ├── ExternalAssets/           # 外部からダウンロードした素材をまとめたフォルダ
 ├── ExternalDependencyManager/ # Google関連の依存管理
 ├── Font/                     # フォント関連のアセット
+├── Gifs/                     # Gitに掲載するためのファイル
 ├── GoogleMobileAds/         # Google AdMob SDK
 ├── Image_sozai/             # UIなどで使用する画像素材
 ├── Music/                   # BGMや効果音などの音素材
