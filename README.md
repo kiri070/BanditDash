@@ -9,6 +9,8 @@ Google Play Storeに投稿しました。　
 
 ![プレイGIF](https://github.com/kiri070/BanditDash/raw/main/Assets/Gifs/portfolio01.gif)
 
+プレイ映像 youtubeリンク→ https://youtu.be/tVoCOvHCQyE
+
 ## 使用技術
 - Unity(ver.2022.3.20f1)
 - C#
