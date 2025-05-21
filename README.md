@@ -7,6 +7,9 @@ Unityで制作した2Dランアクションゲームです。プレイヤーは�
 
 Google Play Store リンク→ https://play.google.com/store/apps/details?id=com.kiri.BunditDash&pcampaignid=web_share
 
+## プレイ動画
+- GIF  
+
 ![プレイGIF](https://github.com/kiri070/BanditDash/raw/main/Assets/Gifs/portfolio01.gif)
 
 - ゲーム画面や機能の詳細はこちら
