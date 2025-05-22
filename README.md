@@ -76,3 +76,6 @@ Assets/
 
 ## 開発メンバー
 - 辻本 伊吹(プログラム全般)
+
+## ポートフォリオ一覧に戻る
+https://github.com/kiri070/portfolio.git
