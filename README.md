@@ -3,9 +3,7 @@
 ## 概要(個人製作)
 Unityで制作した2Dランアクションゲームです。プレイヤーは海賊を操作して敵を倒しながらゴールを目指します。
 
-- Google Play Storeに投稿しました。　
-
-Google Play Store リンク→ https://play.google.com/store/apps/details?id=com.kiri.BunditDash&pcampaignid=web_share
+- Google Play Storeに投稿していました。　
 
 ## プレイ動画
 - GIF  
